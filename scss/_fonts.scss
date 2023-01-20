@@ -1,0 +1,18 @@
+@import url("https://use.typekit.net/enf0iwy.css");
+
+$font-articulat: "articulat-cf", sans-serif;
+$font-articulat-heavy: "articulat-heavy-cf", sans-serif;
+
+$font-body: $font-articulat;
+
+$font-families: (
+    "articulat": "articulat-cf",
+    "articulat-heavy": "articulat-heavy-cf",
+);
+
+@each $name,
+$font-family in $font-families {
+    .font-#{$name} {
+        font-family: $font-family, sans-serif;
+    }
+}
