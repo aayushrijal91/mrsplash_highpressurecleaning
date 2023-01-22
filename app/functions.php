@@ -3,9 +3,9 @@ include __DIR__ . '/env.php';
 
 $site = "Mr Splash High Pressure Cleaning";
 $phone_number = "(02) 8093 5457";
-$admin_email = 'arijal@aiims.com.au';
+$admin_email = 'arijal@aiims.com.au'; // 'info@mrsplashplumbing.com.au';
 $bcc_email = "";
-$no_reply_email = 'info@website.com.au';
+$no_reply_email = 'info@mrsplashplumbing.com.au';
 $recaptcha_client_secret = $client_secret;
 $recaptcha_server_secret = $server_secret;
 
