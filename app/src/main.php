@@ -61,10 +61,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-11 pt-4">
-                <h1 class="fs-72 text-white fw-700 lh-1 text-center">Professional, Local, <span class="text-primary">Near-Me</span> Gutter Cleaning</h1>
+                <h1 class="fs-72 text-white fw-700 lh-1 text-center">Professional, Local, <span class="text-primary">Near-Me</span> High Pressure Cleaning</h1>
             </div>
             <div class="col-12 pt-4">
-                <div class="text-white text-center fs-18 lh-1">We solve <b>ANY</b> kind of gutter job you can think of - <b>big or small, residential, commercial, strata or industrial</b></div>
+                <div class="text-white text-center fs-18 lh-1">We solve <b>ANY</b> kind of cleanign job you can think of - <b>big or small, residential, commercial, strata or industrial</b></div>
             </div>
             <div class="col-12 pt-4">
                 <div class="row align-items-center">
@@ -113,7 +113,7 @@
             </div>
         </div>
     </div>
-    <?= renderImg('house-roof.png', 'lib', 'w-100 pt-4 ps-1') ?>
+    <?= renderImg('house-roof.jpg', 'lib', 'w-100 pt-4') ?>
 </section>
 
 <section class="awards-mobile d-md-none">
@@ -369,7 +369,7 @@
             <div class="col-md-7 col-lg-4">
                 <div class="service bg-secondary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Cleaning</div>
+                        <div class="fs-36 lh-1 fw-700">House Washing</div>
                         <div class="fs-18 fw-300 lh-1 pt-2">We'll be at your door within the hour</div>
                     </div>
                     <?= renderImg('service-1.png', 'lib', 'w-100') ?>
@@ -378,7 +378,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="service bg-primary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Repairs</div>
+                        <div class="fs-36 lh-1 fw-700">Concrete Cleaning</div>
                         <div class="fs-18 fw-300 lh-1 pt-2">No extra or hidden fees for extended time</div>
                     </div>
                     <?= renderImg('service-2.png', 'lib', 'w-100') ?>
@@ -387,7 +387,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="service bg-tertiary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Replacement</div>
+                        <div class="fs-36 lh-1 fw-700">Commercial Washing</div>
                         <div class="fs-18 fw-300 lh-1 pt-2">Teams all over Sydney to assist you 24/7</div>
                     </div>
                     <?= renderImg('service-3.png', 'lib', 'w-100') ?>
@@ -396,8 +396,8 @@
             <div class="col-md-6 col-lg-4">
                 <div class="service bg-tertiary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Restoration</div>
-                        <div class="fs-18 fw-300 lh-1 pt-2">Lifetime Warranty</div>
+                        <div class="fs-36 lh-1 fw-700">Brick & Paving Cleaning</div>
+                        <div class="fs-18 fw-300 lh-1 pt-2">We'll be at your door within the hour</div>
                     </div>
                     <?= renderImg('service-4.png', 'lib', 'w-100') ?>
                 </div>
@@ -405,8 +405,8 @@
             <div class="col-md-6 col-lg-4">
                 <div class="service bg-secondary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Restoration</div>
-                        <div class="fs-18 fw-300 lh-1 pt-2">Lifetime Warranty</div>
+                        <div class="fs-36 lh-1 fw-700">Tile & Stone Washing</div>
+                        <div class="fs-18 fw-300 lh-1 pt-2">No extra or hidden fees for extended time</div>
                     </div>
                     <?= renderImg('service-5.png', 'lib', 'w-100') ?>
                 </div>
@@ -414,8 +414,8 @@
             <div class="col-md-6 col-lg-4">
                 <div class="service bg-primary">
                     <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Gutter Restoration</div>
-                        <div class="fs-18 fw-300 lh-1 pt-2">Lifetime Warranty</div>
+                        <div class="fs-36 lh-1 fw-700">Tile & Stone Sealing</div>
+                        <div class="fs-18 fw-300 lh-1 pt-2">Teams all over Sydney to assist you 24/7</div>
                     </div>
                     <?= renderImg('service-6.png', 'lib', 'w-100') ?>
                 </div>
@@ -426,15 +426,15 @@
 
 <section class="why-us">
     <div class="container">
-        <div class="text-white fs-72 lh-1 fw-700 text-center">WHY Should I use<br> Mr Splash <span class="text-primary">Gutter Cleaning Sydney?</span></div>
-        <div class="text-grey fs-18 text-center py-5 d-none d-md-block">Other than the list below, let us explain why the Gutter Cleaning Service Sydney is were it is today since 1990 we have seen an influx quick & cheap style workmanship by contractor style companies that promise the world and provide you a Gutter Cleaning Service that looks great for the first 3 months, this is because these companies and contractors are not Licensed Gutter Cleaningers, they do not hold pride & workmanship at a high level, like how we do at Mr Splash Gutter Cleaning, tilling is not the essential component to a Gutter Cleaning Service it's what lies below the TILE, Waterpgutter cleaning last when a Gutter Cleaninger does it, Gutter Cleanings don’t leak when a Gutter Cleaninger does it.</div>
+        <div class="text-white fs-72 lh-1 fw-700 text-center">WHY Should I use Mr Splash<br> <span class="text-primary">High Pressure Cleaning Sydney?</span></div>
+        <div class="text-grey fs-18 text-center py-5 d-none d-md-block">Other than the list below, let us explain why the Mr Splash High Pressure Cleaning (Suburb) is were it is today since 1990 we have seen an influx quick & cheap style workmanship by contractor style companies that promise the world and provide you sealing  that looks great for the first 3 months, this is because these companies and contractors are not Licensed sealers, they do not hold pride & workmanship at a high level, like how we do at Mr Splash High Pressure Cleaning.</div>
         <?= renderImg('why-us.jpg', 'lib', 'w-100 d-lg-none py-4') ?>
         <div class="row fs-24 align-items-center">
             <div class="col-md-6 col-lg-4">
                 <div class="row gy-4">
                     <div class="col-12">
-                        <div class="reasons">
-                            We are a licensed<br> Gutter Cleaning Company
+                        <div class="reasons py-3">
+                            We are a licensed<br> High Pressure Cleaning Company
                         </div>
                     </div>
                     <div class="col-12">
@@ -449,7 +449,7 @@
                     </div>
                     <div class="col-12">
                         <div class="reasons py-3">
-                            Free Lifetime Membership Plans with every Gutter Cleaning Job Sydney
+                            Free Lifetime Membership Plans with every Cleaning Job Sydney
                             <div class="fs-14 text-grey fw-300 pt-2">www.mrsplashplumbing.com.au/membership</div>
                         </div>
                     </div>
@@ -491,7 +491,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block">We <span class="text-white fw-500">BUILD GUTTER CLEANINGS THAT LAST A LIFETIME</span>, you are more than likely Renovating your rood right now because of simply POOR workmanship your gutter cleaning would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage, a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Gutter Cleaning Services your licenced local Plumbing Company</div>
+        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block"><span class="text-white fw-500 text-uppercase">Mr Splash High Pressure Cleaning THAT LASTS A LIFETIME</span>, you are more than likely cleaning your home  right now because of simply POOR workmanship your home would be discoloured, experiencing cracks, visible mould elements inside the home due to poor cleaning or sealing,  a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash High Pressure Cleaning your licenced local Plumbing Company</div>
     </div>
 </section>
 
@@ -822,66 +822,6 @@
                         <div class="col-12 col-md-4 col-lg-auto"><?= renderImg('google-reviews.png', 'lib', 'w-100') ?></div>
                         <div class="col-12 col-md-4 col-lg-auto"><?= renderImg('youtube-channel.png', 'lib', 'w-100') ?></div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-links d-none d-md-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Quick Links</div>
-                    <ul class="quick-links">
-                        <li><a href="">Home</a></li>
-                        <li><a href="">About Us</a></li>
-                        <li><a href="">Our Services</a></li>
-                        <li><a href="">Areas We Service</a></li>
-                        <li><a href="">Testimonials</a></li>
-                        <li><a href="">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Plumbing</div>
-                    <ul class="quick-links">
-                        <li><a href="">Broken Pipes Repair</a></li>
-                        <li><a href="">Burst Water Pipes Repair</a></li>
-                        <li><a href="">Commercial Plumbing</a></li>
-                        <li><a href="">Dishwasher Installation</a></li>
-                        <li><a href="">Jet Blasting</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Drains</div>
-                    <ul class="quick-links">
-                        <li><a href="">Blocked Drains</a></li>
-                        <li><a href="">Blocked Pipes</a></li>
-                        <li><a href="">Blocked Sewers</a></li>
-                        <li><a href="">Drain Camera Inspection</a></li>
-                        <li><a href="">Drain Repairs</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Hot Water</div>
-                    <ul class="quick-links">
-                        <li><a href="">Dux Hot Water</a></li>
-                        <li><a href="">Electric Hot Water Systems</a></li>
-                        <li><a href="">Hot Water Heater Brands</a></li>
-                        <li><a href="">Hot Water Heater Installation</a></li>
-                        <li><a href="">Hot Water Heater</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg-2">
-                    <div class="fs-24 fw-700 text-white pb-4">Support</div>
-                    <ul class="quick-links">
-                        <li><a href="">Contact Us</a></li>
-                        <li><a href="">Book Online</a></li>
-                        <li><a href="">Testimonials</a></li>
-                        <li><a href="">FAQ</a></li>
-                        <li><a href="">Lifetime Membership</a></li>
-                    </ul>
                 </div>
             </div>
         </div>
