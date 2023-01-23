@@ -2,11 +2,11 @@
 
 <?php include __DIR__ . '/src/header.php'; ?>
 
-<!-- Event snippet for Quote Form conversion page -->
+<!-- Event snippet for Booking Form conversion page -->
 
 <script>
     gtag('event', 'conversion', {
-        'send_to': 'AW-11075885157/UOM_CIfWgIkYEOWwsqEp'
+        'send_to': 'AW-11075885157/3EkJCIrWgIkYEOWwsqEp'
     });
 </script>
 

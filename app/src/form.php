@@ -143,7 +143,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['token'])) {
             $result =  mail($to, $subject, $messagea, $headers);
 
             if ($result) {
-                header('location:./../thankyou');
+                header('location:./../thankyoubook');
             }
         } else {
             $headers = "MIME-Version: 1.0\r\n" .
@@ -156,7 +156,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['token'])) {
             $result = mail($to, $subject, $message, $headers);
 
             if ($result) {
-                header('location:./../thankyou');
+                header('location:./../thankyoubook');
             } else {
                 throw new Exception('Failed, please submit form again or call us directly.');
             }

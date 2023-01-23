@@ -1,4 +1,4 @@
-# Landing page [Mr Splash High Pressure Cleaning](https://www.mrsplashroofing.com.au/)
+# Landing page [Mr Splash High Pressure Cleaning](https://www.mrsplashpressurecleaning.com.au/)
 
 This is a landing page boilerplate that uses PHP scripting language
 
