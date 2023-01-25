@@ -76,7 +76,7 @@
                         </svg>
                     </div>
                     <div class="col">
-                        <div class="fs-24 text-white fw-700 lh-1">No Call Out Fees*</div>
+                        <div class="fs-24 text-white fw-700 lh-1">$49* Call Out Fee</div>
                         <div class="text-grey fs-14 lh-1">Terms & conditions may apply</div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                         <div class="row align-items-center pb-4">
                             <div class="col-auto"><?= renderImg('no-call.png', 'icons') ?></div>
                             <div class="col">
-                                <div class="fs-36 text-white fw-700 lh-1">No Call Out Fees*</div>
+                                <div class="fs-36 text-white fw-700 lh-1">$49* Call Out Fee</div>
                                 <div class="text-grey fs-18 lh-1">Terms & conditions may apply</div>
                             </div>
                         </div>
@@ -364,7 +364,7 @@
 
 <section class="services">
     <div class="container">
-        <div class="fs-72 fw-700 text-primary text-center lh-1 pb-5 d-none d-md-block">Mr Splash Sealing Services</div>
+        <div class="fs-72 fw-700 text-primary text-center lh-1 pb-5 d-none d-md-block">Mr Splash Pressure Cleaning</div>
         <div class="row pt-2 gy-5 justify-content-center">
             <div class="col-md-7 col-lg-4">
                 <div class="service bg-secondary">
@@ -409,15 +409,6 @@
                         <div class="fs-18 fw-300 lh-1 pt-2">No extra or hidden fees for extended time</div>
                     </div>
                     <?= renderImg('service-5.png', 'lib', 'w-100') ?>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="service bg-primary">
-                    <div class="main">
-                        <div class="fs-36 lh-1 fw-700">Tile & Stone Sealing</div>
-                        <div class="fs-18 fw-300 lh-1 pt-2">Teams all over Sydney to assist you 24/7</div>
-                    </div>
-                    <?= renderImg('service-6.png', 'lib', 'w-100') ?>
                 </div>
             </div>
         </div>
@@ -557,111 +548,6 @@
                                 </div>
                             </div>
                             <input id="emailAddress" class="form-control border-0 rounded-0 bg-white" type="email" placeholder="Eg: email@example.com" name="email" required>
-                        </div>
-                    </div>
-                    <div class="col-12 col-xl-10 col-xxl-9">
-                        <label class="fs-18 fw-400 text-dark pb-2 pb-md-3" for="typeOfRoof">Type of roof:</label>
-                        <div class="row">
-                            <div class="col-6 col-lg">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Gable" id="typeOfRoof1" checked>
-                                    <label class="form-check-label w-100" for="typeOfRoof1">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Gable</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('gable.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Shed" id="typeOfRoof2">
-                                    <label class="form-check-label w-100" for="typeOfRoof2">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Shed</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('shed.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="col-6 col-lg">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Hip" id="typeOfRoof3">
-                                    <label class="form-check-label w-100" for="typeOfRoof3">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Hip</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('hip.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Butterfly" id="typeOfRoof4">
-                                    <label class="form-check-label w-100" for="typeOfRoof4">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Butterfly</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('butterfly.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="col-6 col-lg">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Dutch" id="typeOfRoof5">
-                                    <label class="form-check-label w-100" for="typeOfRoof5">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Dutch</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('dutch.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Gambrel" id="typeOfRoof6">
-                                    <label class="form-check-label w-100" for="typeOfRoof6">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Gambrel</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('gambrel.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="col-6 col-lg">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Mansard" id="typeOfRoof7">
-                                    <label class="form-check-label w-100" for="typeOfRoof7">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Mansard</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('mansard.png', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Dormer" id="typeOfRoof8">
-                                    <label class="form-check-label w-100" for="typeOfRoof8">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Dormer</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('dormer.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="col-6 col-lg">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Flat" id="typeOfRoof9">
-                                    <label class="form-check-label w-100" for="typeOfRoof9">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">Flat</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('flat.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="M Shaped" id="typeOfRoof10">
-                                    <label class="form-check-label w-100" for="typeOfRoof10">
-                                        <div class="d-flex justify-content-md-between">
-                                            <div class="order-2 order-md-1 ps-3 ps-md-0">M Shaped</div>
-                                            <div class="order-1 order-md-2"><?= renderImg('mshaped.jpg', 'icons') ?></div>
-                                        </div>
-                                    </label>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div class="col-12">

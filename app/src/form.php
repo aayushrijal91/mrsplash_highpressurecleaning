@@ -20,7 +20,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['token'])) {
         $lastName = strip_tags($_POST['lastName']);
         $phone = strip_tags($_POST['phone']);
         $email = strip_tags($_POST['email']);
-        $typeOfRoof = strip_tags($_POST['typeOfRoof']);
         $budget = strip_tags($_POST['budget']);
         $budgetAmount = strip_tags($_POST['budgetAmount']);
         $streetAddress = strip_tags($_POST['streetAddress']);
@@ -69,10 +68,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['token'])) {
             '<tr>' .
             '<td>Postcode</td>' .
             '<td><b>' . $postcode . '</b></td>' .
-            '</tr>' .
-            '<tr>' .
-            '<td>Type of Roof</td>' .
-            '<td><b>' . $typeOfRoof . '</b></td>' .
             '</tr>' .
             '<tr>' .
             '<td>Do you have a budget?</td>' .
